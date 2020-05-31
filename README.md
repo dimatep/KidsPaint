@@ -12,7 +12,7 @@ In the application you can
 ## Screenshots 
 **Icon**
 <br>
-<img src="https://user-images.githubusercontent.com/51478377/83352595-45fd5780-a355-11ea-8095-f446eea3bf67.jpeg" width = "100" height="120"> 
+<img src="https://user-images.githubusercontent.com/51478377/83352595-45fd5780-a355-11ea-8095-f446eea3bf67.jpeg" width = "90" height="100"> 
 <br>
 **Main Drawing Activity**
 <br>
